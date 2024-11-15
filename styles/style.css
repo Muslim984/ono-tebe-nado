@@ -34,7 +34,7 @@ li {
   height: 105px;
 }
 
-.address {
+.address__header {
   display: grid;
   align-items: baseline;
   width: 185px;
@@ -359,7 +359,7 @@ p {
   list-style-type: none;
 }
 
-.address {
+.address__footer {
   display: grid;
   align-items: baseline;
   width: 240.52px;

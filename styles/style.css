@@ -282,6 +282,7 @@ li {
   margin-top: 146px;
   margin-left: 24px;
   margin-right: 24px;
+  margin-bottom: 180px;
   width: 1052px;
   height: 692px;
   display: flex;
@@ -314,6 +315,7 @@ li {
   text-transform: uppercase;
   font-size: 40px;
   font-weight: 700;
+  white-space: nowrap;
 }
 
 .about__text {
@@ -331,7 +333,7 @@ p {
   justify-content: space-between;
   align-items: center;
   margin-left: 50px;
-  margin-bottom: 80px;
+  margin-bottom: 88px;
   margin-right: 50px;
 }
 .footer_menu {

@@ -282,7 +282,6 @@ li {
   margin-top: 146px;
   margin-left: 24px;
   margin-right: 24px;
-  margin-bottom: 180px;
   width: 1052px;
   height: 692px;
   display: flex;
@@ -335,6 +334,7 @@ p {
   margin-left: 50px;
   margin-bottom: 88px;
   margin-right: 50px;
+  margin-top: 180px;
 }
 .footer_menu {
   display: grid;

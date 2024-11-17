@@ -5,6 +5,8 @@
   justify-content: space-between;
   align-items: center;
   margin-top: 92px;
+  margin-left: 24px;
+  margin-right: 24px;
 }
 .header_menu {
   display: grid;
@@ -37,10 +39,9 @@ li {
 .header__address {
   display: grid;
   align-items: baseline;
-  width: 185px;
+  width: 240.52px;
   min-height: 98px;
   font-style: normal;
-  justify-self: end;
 }
 
 .address__link {
@@ -117,7 +118,7 @@ li {
   letter-spacing: normal;
 }
 
-.cover__description {
+.cover__description { 
   display: flex;
   justify-content: end;
   align-items: center;
@@ -128,6 +129,8 @@ li {
 .cover__description-text {
   margin-right: 79px;
   word-spacing: 18px;
+  margin-bottom: 0;
+
 }
 
 .bet-button {
@@ -141,7 +144,6 @@ li {
   cursor: pointer;
   margin-right: 51px;
   font-family: Raleway, sans-serif;
-
 }
 
 .lots {
